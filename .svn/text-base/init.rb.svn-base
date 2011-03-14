@@ -1,0 +1,1 @@
+require 'slick_tabs'

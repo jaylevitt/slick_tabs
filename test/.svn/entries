@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="181"
+   name=""
+   committed-date="2006-07-31T16:02:20.120725Z"
+   url="http://svn.jay.fm/rails/radiant/trunk/vendor/plugins/slick_tabs/test"
+   last-author="jay"
+   kind="dir"
+   uuid="2cd81214-dbfe-0310-9636-cf6cbd9c5f0b"
+   repos="http://svn.jay.fm/rails"
+   revision="186"/>
+<entry
+   committed-rev="181"
+   name="slick_tabs_test.rb"
+   text-time="2006-07-31T16:02:57.000000Z"
+   committed-date="2006-07-31T16:02:20.120725Z"
+   checksum="de544fe1b40d5efd02c666e74ac7d0e2"
+   last-author="jay"
+   kind="file"
+   prop-time="2006-07-31T16:02:57.000000Z"/>
+</wc-entries>
